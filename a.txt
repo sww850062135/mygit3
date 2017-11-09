@@ -7,3 +7,5 @@
 1 AND 2
 >>>>>>> feature1
 1 and 2
+
+123
